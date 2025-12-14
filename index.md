@@ -1,44 +1,46 @@
-# Jahanbakhsh Ghasemi
+<div align="center">
+  <img src="./profile.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #eaeaea;">
+  
+  <h1 style="border-bottom: none; margin-bottom: 0;">Jahanbakhsh Ghasemi</h1>
+  <p style="color: #666; margin-top: 5px;">Ph.D. Candidate in CS & Engineering at UConn</p>
 
-I am a second-year **Ph.D. student in Computer Science & Engineering** at the **University of Connecticut (UConn)**. My research focuses on **Applied Machine Learning and Deep Learning**, bridging the gap between computational methods and real-world applications in **biomechanics, biomedical imaging, and microscopy**.
+  <p>
+    <a href="./Jahan_CV.pdf"><strong>📄 Download CV</strong></a> •
+    <a href="https://scholar.google.com/citations?user=ZIbOTAgAAAAJ&hl=en&oi=ao"><strong>🎓 Google Scholar</strong></a> •
+    <a href="https://github.com/zanax1990"><strong>💻 GitHub</strong></a>
+  </p>
+</div>
 
-Currently, I am a Graduate Research Assistant collaborating with multiple labs at UConn and UConn Health, including Dr. Cato T. Laurencin, Dr. Kristin Morgan, Dr. Ji Yu, and Dr. Royce Mohan.
+<br>
 
-I hold a GPA of **3.78** and have successfully passed my Qualifying Exam.
+I am a second-year **Ph.D. student in Computer Science & Engineering** at **UConn**, focusing on **Applied Machine Learning** across biomechanics, biomedical imaging, and microscopy. 
 
-[📄 Download CV (PDF)](./Jahan_CV.pdf){: .btn} [🎓 Google Scholar](https://scholar.google.com/citations?user=ZIbOTAgAAAAJ&hl=en&oi=ao){: .btn} [💻 GitHub](https://github.com/zanax1990){: .btn}
-
----
-
-## 📚 Publications
-
-### In Press
-1. **Sharifi L, Ghasemi J, et al.** "Impact of Salt on AAV8 Capsid Aggregation with Single-Stranded DNA: Insights from Coarse-Grained Molecular Dynamics Simulations." *Int J Pharm*, 2025.
-
-### Under Review
-2. **Ghasemi J, Morgan K, Rajasekaran S, Laurencin C.** "Machine Learning for Gait Analysis in Rehabilitation: A Scoping Review of Models, Modalities, and Clinical Applications." *npj Digital Medicine*.
-3. **Ghasemi J, Morgan K, Rajasekaran S, Laurencin C.** "Toward Real-Time Knee Joint Force Prediction via Machine Learning: Outpacing Traditional Simulations." *Nature Bioengineering*.
-4. **Ghasemi J, Bradford P.** "Survey of Dynamic Circuit Breakers for Resilient Microservices." *CMOC Journal*.
+Currently, I serve as a Graduate Research Assistant collaborating with Dr. Laurencin, Dr. Morgan, Dr. Yu, and Dr. Mohan. I hold a GPA of **3.78** and have passed my Qualifying Exam.
 
 ---
 
-## 🛠 Software Projects
+### 🛠 Selected Projects
 
-**[Jahan-BioOmics](https://github.com/zanax1990/Jahan-BioOmics)**
-An end-to-end interactive Streamlit dashboard for DIA LC–MS/MS proteomics data analysis. Features include PCA, normalization, and enrichment analysis (GProfiler).
+**[MohanOmics Analyzer](https://github.com/zanax1990/MohanOmics)**
+> An interactive dashboard for DIA LC–MS/MS proteomics. Features PCA, normalization, and enrichment analysis.
 
 **[CrimeLightingApp](https://github.com/zanax1990/CrimeLightingApp)**
-A desktop tool (GUI) designed to analyze crime reduction before and after street-lighting interventions using geospatial data.
+> A desktop tool analyzing crime reduction before/after street-lighting interventions using geospatial data.
 
 ---
 
-## 🔬 Research Interests
+### 📚 Latest Publications
 
-* **Machine Learning & Deep Learning:** Regression, SVM, Random Forest, U-Net Segmentation.
-* **Biomechanics:** Knee joint force prediction, Gait analysis.
-* **Bioinformatics:** Proteomics analysis (DIA LC-MS/MS), Single-cell microscopy.
-* **HPC & Cloud:** SLURM, AWS, Distributed computing.
+* **[In Press]** Sharifi L, **Ghasemi J**, et al. "Impact of Salt on AAV8 Capsid Aggregation..." *Int J Pharm*, 2025.
+* **[Under Review]** **Ghasemi J**, et al. "Machine Learning for Gait Analysis in Rehabilitation..." *npj Digital Medicine*.
+* **[Under Review]** **Ghasemi J**, et al. "Toward Real-Time Knee Joint Force Prediction..." *Nature Bioengineering*.
 
 ---
 
-*Last updated: December 2025*
+### 🔬 Interests
+`Machine Learning` `Deep Learning` `Biomechanics` `Bioinformatics` `HPC & Cloud` `IoT`
+
+<br>
+<div align="center">
+  <small>Last updated: December 2025</small>
+</div>
