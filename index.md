@@ -65,8 +65,7 @@ title: Jahanbakhsh Ghasemi
 <div style="text-align: justify; font-size: 1.05em; line-height: 1.6;">
 I am a second-year <strong>Ph.D. student in Computer Science & Engineering</strong> at the <strong>University of Connecticut (UConn)</strong>. My research focuses on <strong>Applied Machine Learning and Deep Learning</strong>, bridging the gap between computational methods and real-world applications in biomechanics, biomedical imaging, and microscopy.
 
-Currently, I serve as a Graduate Research Assistant collaborating with <a href="https://scholar.google.com/citations?user=Example" style="text-decoration: none; color: #000;">Dr. Cato T. Laurencin</a>, <a href="https://scholar.google.com/citations?user=Example" style="text-decoration: none; color: #000;">Dr. Kristin Morgan</a>, <a href="https://scholar.google.com/citations?user=Example" style="text-decoration: none; color: #000;">Dr. Ji Yu</a>, and <a href="https://scholar.google.com/citations?user=Example" style="text-decoration: none; color: #000;">Dr. Royce Mohan</a>. I hold a GPA of <strong>3.8</strong> and have successfully passed my Qualifying Exam.
-</div>
+Currently, I serve as a Graduate Research Assistant at UConn, collaborating with faculty across UConn Health and the College of Engineering. GPA: 3.8. Qualifying Exam: passed.
 
 ---
 
