@@ -21,7 +21,7 @@ Currently, I serve as a Graduate Research Assistant collaborating with Dr. Laure
 
 ### 🛠 Selected Projects
 
-**[MohanOmics Analyzer](https://github.com/zanax1990/MohanOmics)**
+**[Jahan-BioOmics](https://github.com/zanax1990/Jahan-BioOmics)**
 > An interactive dashboard for DIA LC–MS/MS proteomics. Features PCA, normalization, and enrichment analysis.
 
 **[CrimeLightingApp](https://github.com/zanax1990/CrimeLightingApp)**
