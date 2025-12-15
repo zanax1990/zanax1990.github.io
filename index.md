@@ -90,7 +90,7 @@ Currently, I serve as a Graduate Research Assistant collaborating with <a href="
 ---
 
 ### 🔬 Interests
-Data-Driven Modeling Machine Learning Biomechanics Packaging Dynamics (Shock/Vibration) Sensor Data Analytics Risk & Damage Prediction HPC & Reproducible Pipelines Microservices Resilience IoT
+Data-Driven Modeling | Machine Learning | Biomechanics | Packaging Dynamics (Shock/Vibration) | Sensor Data Analytics | Risk & Damage Prediction | HPC & Reproducible Pipelines | Microservices Resilience | IoT
 
 <br>
 <br>
