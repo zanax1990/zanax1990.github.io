@@ -90,7 +90,7 @@ Currently, I serve as a Graduate Research Assistant collaborating with <a href="
 ---
 
 ### 🔬 Interests
-Microservices Resilience Dynamic Circuit Breakers Fault Tolerance Biomechanics + ML (JRF Prediction) GRF + Kinematics Modeling Random Forest / SVR / MLP Cross-Subject Evaluation Feature Selection PCA Probabilistic Microscopy Segmentation HPC Inference + Metrics (Dice/F1/AP) Diversity Tuning Proteomics Analytics (Streamlit) QC + Imputation ESP32 IoT (DHT22/LDR/PIR) Linux + HPC Pipelines Data Visualization GIS Health Analytics Patent/Provisional Work Optimization (Drone Path Planning) Instrumentation Prototyping Data-Driven Packaging Dynamics Packaging Shock & Vibration Modeling Transportation Hazards Analytics ML for Product Damage Prediction Distribution Risk Modeling Large-Scale Experimental Evaluation Sensor-Based Packaging Performance Analytics Scalable & Reproducible Pipelines
+Data-Driven Modeling Machine Learning Biomechanics Packaging Dynamics (Shock/Vibration) Sensor Data Analytics Risk & Damage Prediction HPC & Reproducible Pipelines Microservices Resilience IoT
 
 <br>
 <br>
