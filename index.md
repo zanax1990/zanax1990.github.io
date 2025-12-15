@@ -90,7 +90,7 @@ Currently, I serve as a Graduate Research Assistant collaborating with <a href="
 ---
 
 ### 🔬 Interests
-`Machine Learning` `Deep Learning` `Biomechanics` `Bioinformatics` `HPC & Cloud` `IoT`
+Microservices Resilience Dynamic Circuit Breakers Fault Tolerance Biomechanics + ML (JRF Prediction) GRF + Kinematics Modeling Random Forest / SVR / MLP Cross-Subject Evaluation Feature Selection PCA Probabilistic Microscopy Segmentation HPC Inference + Metrics (Dice/F1/AP) Diversity Tuning Proteomics Analytics (Streamlit) QC + Imputation ESP32 IoT (DHT22/LDR/PIR) Linux + HPC Pipelines Data Visualization GIS Health Analytics Patent/Provisional Work Optimization (Drone Path Planning) Instrumentation Prototyping
 
 <br>
 <br>
