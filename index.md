@@ -76,7 +76,9 @@ Currently, I serve as a Graduate Research Assistant at the University of Connect
 
 ---
 
-✖ Selected Projects
+## ⭐ Selected Projects
+--- 
+
 
 **Machine Learning for Biomechanics**  
 _Developed machine learning models (Regression, SVR, Decision Trees, Random Forests, MLPs) to predict knee joint and muscle forces. Applied PCA and Neighborhood Component Analysis for dimensionality reduction, evaluated cross-subject generalization using RMSE, MAE, and R², and analyzed accuracy-latency-scalability trade-offs. Led to a first-author manuscript under review (npj Digital Medicine) and a review manuscript submitted to Communications AI._
