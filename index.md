@@ -76,13 +76,17 @@ Currently, I serve as a Graduate Research Assistant at the University of Connect
 
 ---
 
-### 🛠 Selected Projects
+✖ Selected Projects
 
-**[Jahan-BioOmics](https://github.com/zanax1990/Jahan-BioOmics)**
-> An interactive dashboard for DIA LC–MS/MS proteomics. Features PCA, normalization, and enrichment analysis using Streamlit and Python.
+**Machine Learning for Biomechanics**  
+_Developed machine learning models (Regression, SVR, Decision Trees, Random Forests, MLPs) to predict knee joint and muscle forces. Applied PCA and Neighborhood Component Analysis for dimensionality reduction, evaluated cross-subject generalization using RMSE, MAE, and R², and analyzed accuracy-latency-scalability trade-offs. Led to a first-author manuscript under review (npj Digital Medicine) and a review manuscript submitted to Communications AI._
 
-**[CrimeLightingApp](https://github.com/zanax1990/CrimeLightingApp)**
-> A desktop tool (GUI) designed to analyze crime reduction before and after street-lighting interventions using geospatial data.
+**Microscopy and Probabilistic Segmentation**  
+_Conducted large-scale microscopy image segmentation using CPU/GPU HPC clusters. Reproduced deterministic baselines, implemented standardized evaluation metrics (Precision, Recall, F1, Dice, AP), and developed probabilistic workflows to assess robustness and diversity. Automated CSV-based metric aggregation and generation of publication-quality figures. Manuscript in preparation._
+
+**HPC Automation and Scientific Data Post-Processing**  
+_Developed Python-based automation pipelines for HPC job submission and post-processing of large-scale molecular dynamics trajectories and imaging datasets. Performed spatial and statistical analyses and organized reproducible tables, figures, and summaries for collaborative research._
+
 
 ---
 
