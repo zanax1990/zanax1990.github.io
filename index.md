@@ -67,7 +67,10 @@ title: Jahanbakhsh Ghasemi
 <br>
 
 <div class="content" markdown="1">
-I am a second-year **Ph.D. student in Computer Science & Engineering** at the **University of Connecticut (UConn)**. My research focuses on **Applied Machine Learning and Deep Learning**, bridging computational methods with real-world applications in biomechanics, biomedical imaging, and microscopy.
+I am a second-year **Ph.D. student in Computer Science & Engineering** at the **University of Connecticut (UConn)**. My research focuses on Machine learning and computer vision for large-scale biomedical and biomechanical systems, with
+emphasis on scalable experimentation using high-performance computing (HPC). Core interests
+include image segmentation, representation learning, semi-supervised learning, and data-driven
+surrogate modeling for computationally expensive scientific pipelines.
 
 Currently, I serve as a Graduate Research Assistant at the University of Connecticut (UConn), contributing to data-driven biomechanics and machine learning projects in collaboration with research teams across UConn and UConn Health. GPA: <strong>3.8</strong>. Qualifying Exam: passed.
 
