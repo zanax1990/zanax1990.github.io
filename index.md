@@ -55,7 +55,7 @@ title: Jahanbakhsh Ghasemi
   <img src="{{ '/profile.jpg' | relative_url }}" class="profile-img" alt="Jahanbakhsh Ghasemi">
 
   <h1 style="border-bottom: none; margin-bottom: 8px; font-size: 2.4em; letter-spacing: -0.5px;">Jahanbakhsh Ghasemi</h1>
-  <p style="color: #666; font-size: 1.2em; margin-top: 0; font-weight: 300;">Ph.D. Candidate in CS & Engineering at UConn</p>
+  <p style="color: #666; font-size: 1.2em; margin-top: 0; font-weight: 300;">Ph.D. Student in Computer Science and Engineering at UConn</p>
 
   <p style="margin-top: 20px;">
     <a href="{{ '/Jahan_CV.pdf' | relative_url }}" class="link-btn">📄 Download CV</a> •
@@ -67,12 +67,9 @@ title: Jahanbakhsh Ghasemi
 <br>
 
 <div class="content" markdown="1">
-I am a second-year **Ph.D. student in Computer Science & Engineering** at the **University of Connecticut (UConn)**. My research focuses on Machine learning and computer vision for large-scale biomedical and biomechanical systems, with
-emphasis on scalable experimentation using high-performance computing (HPC). Core interests
-include image segmentation, representation learning, semi-supervised learning, and data-driven
-surrogate modeling for computationally expensive scientific pipelines.
+I am a **Ph.D. student in Computer Science and Engineering** at the **University of Connecticut (UConn)**, with a background in Electrical Engineering. My current research focuses on computational and data-driven modeling of shape deformation in soft and deformable systems.
 
-Currently, I serve as a Graduate Research Assistant at the University of Connecticut (UConn), contributing to data-driven biomechanics and machine learning projects in collaboration with research teams across UConn and UConn Health. GPA: <strong>3.8</strong>. Qualifying Exam: passed.
+I am particularly interested in kinematics, geometric representation, and machine learning methods that connect images, experiments, and simulations. My broader work includes scientific computing, biomechanics, biomedical data analysis, image segmentation, and reproducible research pipelines.
 
 ---
 
@@ -103,11 +100,11 @@ _Developed Python-based automation pipelines for HPC job submission and post-pro
 
 ### 🔬 Interests
 
-Data-Driven Modeling | Machine Learning | Biomechanics | Packaging Dynamics (Shock/Vibration) | Sensor Data Analytics | Risk & Damage Prediction | HPC & Reproducible Pipelines | Microservices Resilience | IoT
+Machine Learning | Computational Modeling | Soft Robotics | Kinematics | Shape Deformation | Biomechanics | Scientific Computing | Reproducible Research
 </div>
 
 <br><br>
 
 <div align="center" style="color: #aaa; font-size: 0.85em;">
-  Last updated: December 2025
+  Last updated: September 2026
 </div>
