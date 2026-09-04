@@ -4,10 +4,8 @@ title: Jahanbakhsh Ghasemi
 ---
 
 <style>
-  /* Hide default theme header elements */
   header, footer, .view, .view-on-github { display: none !important; }
 
-  /* Center the main content */
   section {
     width: 100% !important;
     max-width: 800px !important;
@@ -45,7 +43,7 @@ title: Jahanbakhsh Ghasemi
   }
 
   .content {
-    text-align: justify;
+    text-align: left;
     font-size: 1.05em;
     line-height: 1.6;
   }
@@ -55,56 +53,55 @@ title: Jahanbakhsh Ghasemi
   <img src="{{ '/profile.jpg' | relative_url }}" class="profile-img" alt="Jahanbakhsh Ghasemi">
 
   <h1 style="border-bottom: none; margin-bottom: 8px; font-size: 2.4em; letter-spacing: -0.5px;">Jahanbakhsh Ghasemi</h1>
-  <p style="color: #666; font-size: 1.2em; margin-top: 0; font-weight: 300;">Ph.D. Student in Computer Science and Engineering at UConn</p>
+  <p style="color: #666; font-size: 1.2em; margin-top: 0; font-weight: 300;">PhD Student in Computer Science and Engineering at UConn</p>
 
   <p style="margin-top: 20px;">
-    <a href="{{ '/Jahan_CV.pdf' | relative_url }}" class="link-btn">📄 Download CV</a> •
-    <a href="https://scholar.google.com/citations?user=ZIbOTAgAAAAJ&hl=en&oi=ao" class="link-btn" target="_blank" rel="noopener noreferrer">🎓 Google Scholar</a> •
-    <a href="https://github.com/zanax1990" class="link-btn" target="_blank" rel="noopener noreferrer">💻 GitHub</a>
+    <a href="{{ '/Jahan_CV.pdf' | relative_url }}" class="link-btn">Curriculum vitae</a> •
+    <a href="https://scholar.google.com/citations?user=ZIbOTAgAAAAJ&hl=en&oi=ao" class="link-btn" target="_blank" rel="noopener noreferrer">Google Scholar</a> •
+    <a href="https://github.com/zanax1990" class="link-btn" target="_blank" rel="noopener noreferrer">GitHub</a>
   </p>
 </div>
 
 <br>
 
 <div class="content" markdown="1">
-I am a **Ph.D. student in Computer Science and Engineering** at the **University of Connecticut (UConn)**, with a background in Electrical Engineering. My current research focuses on computational and data-driven modeling of shape deformation in soft and deformable systems.
+I am a **PhD student in Computer Science and Engineering** at the **University of Connecticut**, with a background in Electrical Engineering. My research combines machine learning, computational modeling, and kinematics for soft and deformable systems.
 
-I am particularly interested in kinematics, geometric representation, and machine learning methods that connect images, experiments, and simulations. My broader work includes scientific computing, biomechanics, biomedical data analysis, image segmentation, and reproducible research pipelines.
-
----
-
-## ⭐ Selected Projects
---- 
-
-
-**Machine Learning for Biomechanics**  
-_Developed machine learning models (Regression, SVR, Decision Trees, Random Forests, MLPs) to predict knee joint and muscle forces. Applied PCA and Neighborhood Component Analysis for dimensionality reduction, evaluated cross-subject generalization using RMSE, MAE, and R², and analyzed accuracy-latency-scalability trade-offs. Led to a first-author manuscript under review (npj Digital Medicine) and a review manuscript submitted to Communications AI._
-
-**Microscopy and Probabilistic Segmentation**  
-_Conducted large-scale microscopy image segmentation using CPU/GPU HPC clusters. Reproduced deterministic baselines, implemented standardized evaluation metrics (Precision, Recall, F1, Dice, AP), and developed probabilistic workflows to assess robustness and diversity. Automated CSV-based metric aggregation and generation of publication-quality figures. Manuscript in preparation._
-
-**HPC Automation and Scientific Data Post-Processing**  
-_Developed Python-based automation pipelines for HPC job submission and post-processing of large-scale molecular dynamics trajectories and imaging datasets. Performed spatial and statistical analyses and organized reproducible tables, figures, and summaries for collaborative research._
-
+My current work examines how to represent, quantify, and model shape deformation in soft robotic systems. I am particularly interested in centerline kinematics and data-driven methods that connect images, experiments, and simulations. My broader work includes scientific computing, biomechanics, biomedical data analysis, microscopy segmentation, and reproducible research pipelines.
 
 ---
 
-### 📚 Latest Publications
+## Selected software
 
-* **[In Press]** Sharifi L, **Ghasemi J**, et al. "Impact of Salt on AAV8 Capsid Aggregation with Single-Stranded DNA: Insights from Coarse-Grained Molecular Dynamics Simulations." *Int J Pharm*, 2025.
-* **[Under Review]** **Ghasemi J**, et al. "Machine Learning for Gait Analysis in Rehabilitation: A Scoping Review of Models, Modalities, and Clinical Applications." *npj Digital Medicine*.
-* **[Under Review]** **Ghasemi J**, et al. "Toward Real-Time Knee Joint Force Prediction via Machine Learning: Outpacing Traditional Simulations." *Nature Bioengineering*.
-* **[Under Review]** **Ghasemi J**, Bradford P. "Survey of Dynamic Circuit Breakers for Resilient Microservices." *CMOC Journal*.
+**[Soft Robot Kinematics](https://github.com/zanax1990/soft-robot-kinematics)**  
+Planar centerline reconstruction from prescribed curvature fields, with tested geometric deformation metrics and reproducible synthetic examples.
+
+**[Jahan BioOmics](https://github.com/zanax1990/Jahan-BioOmics)**  
+An exploratory DIA proteomics application with schema validation, imputation, PCA, Welch tests, false-discovery-rate correction, and pathway enrichment.
+
+**[Segmentation Comparison Panels](https://github.com/zanax1990/segmentation-comparison-panels)**  
+A configurable utility for comparing microscopy inputs, ground truth, probabilistic prediction samples, and deterministic segmentation baselines.
+
+**[DIA Proteomics Preprocessing in R](https://github.com/zanax1990/dia-proteomics-preprocessing-r)**  
+A two-stage workflow for evidence filtering, log2 transformation, and per-sample median normalization.
 
 ---
 
-### 🔬 Interests
+## Publication
 
-Machine Learning | Computational Modeling | Soft Robotics | Kinematics | Shape Deformation | Biomechanics | Scientific Computing | Reproducible Research
+L. Sharifi, **J. Ghasemi**, et al. “Impact of salt on AAV8 capsid aggregation with single-stranded DNA: insights from coarse-grained molecular dynamics simulations.” *International Journal of Pharmaceutics* 681 (2025): 125867. [doi:10.1016/j.ijpharm.2025.125867](https://doi.org/10.1016/j.ijpharm.2025.125867)
+
+Related work in progress includes machine learning for knee joint force estimation, ML-assisted gait analysis, and probabilistic microscopy segmentation.
+
+---
+
+## Research areas
+
+Machine Learning · Computational Modeling · Soft Robotics · Kinematics · Shape Deformation · Biomechanics · Scientific Computing · Reproducible Research
 </div>
 
 <br><br>
 
-<div align="center" style="color: #aaa; font-size: 0.85em;">
-  Last updated: September 2026
+<div align="center" style="color: #777; font-size: 0.85em;">
+  Updated September 2026
 </div>
